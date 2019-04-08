@@ -79,7 +79,7 @@ str(data)
 ```
 
 
-## Use ggplot for making the histogram
+## Use hist for making the histogram
 
 
 ```r
